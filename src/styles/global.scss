@@ -9,7 +9,7 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #381696;
+  --primary-color: #bd7e7e;
   --primary-text-color: #fff;
   --featured-bg: #493b8a;
   --featured-text: #fff;
@@ -29,11 +29,11 @@ body.light {
   --input-bg: var(--background);
 }
 body.dark {
-  --primary-color: #9984d5;
+  --primary-color:#e6981c;
   --primary-text-color: #fff;
   --featured-bg: #66578d;
   --featured-text: #fff;
-  --secondary-color: #66578d;
+  --secondary-color: #bd7e7e;
   --background: #0A041A;
   --text-color: rgba(255,255,255,0.88);
   --text-secondary-color: rgba(255,255,255,0.66);
