@@ -60,20 +60,21 @@ export default ({ children }) => {
                     style={{ width: '2.5em', height: '2.5em' }}
                   />
                 </a>
-                <a title="instagram" href="https://www.instagram.com/carosolyogapilates/?hl=es">
+                <a title="instagram" href="https://www.instagram.com/carolyogapilates/">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: '2.5em', height: '2.5em' }}
                   />
                 </a>
-                <a title="youtube" href="https://vimeo.com">
+                <a title="youtube" href="https://www.youtube.com/channel/UCfql-K5DnU35Yw1pKSKEC4Q">
                   <img
                     src={youtube}
                     alt="youtube"
                     style={{ width: '2.5em', height: '2.5em' }}
                   />
                 </a>
+                <h4>Carolina Sambado</h4>
               </div>
             </div>
           </div>
