@@ -9,9 +9,9 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #bd7e7e;
+  --primary-color: #050550;
   --primary-text-color: #fff;
-  --featured-bg: #3f2f86;
+  --featured-bg: #0e082b;
   --featured-text: #fff;
   --secondary-color: #0c0522;
   --background: #fff;
@@ -23,18 +23,18 @@ body.light {
   --btn-bdr: #d3d6e7;
   --btn-text-color: #868892;
   --btn-hover-bg: var(--btn-bdr);
-  --btn-hover-text-color: #0c0844;
+  --btn-hover-text-color: #080875;
   --contact-bg: #f7f8fe;
   --contact-bdr: #d3d6e7;
   --input-bg: var(--background);
 }
 body.dark {
-  --primary-color:#b8b82e;
+  --primary-color: #bd7e7e;
   --primary-text-color: #fff;
   --featured-bg: #66578d;
   --featured-text: #fff;
-  --secondary-color: #bd7e7e;
-  --background: rgb(8, 2, 26);
+  --secondary-color: #864747;
+  --background: rgb(3, 3, 20);
   --text-color: rgba(255,255,255,0.88);
   --text-secondary-color: rgba(255,255,255,0.66);
   --site-header: var(--background);
@@ -95,7 +95,7 @@ a {
 .site-header {
   display: flex;
   justify-content: space-between;
-  padding: 20px 0;
+  padding: 5 px 0;
   background: var(--site-header);
   margin-bottom: 32px;
   align-items: center;
@@ -108,7 +108,7 @@ a {
 }
 .hero-header {
   padding: 0 0 64px;
-  max-width: 980px;
+  max-width: 1300px;
 }
 .headline {
   font-size: 36px;
