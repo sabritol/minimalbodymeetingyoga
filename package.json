@@ -1,7 +1,7 @@
 {
-  "name": "delog",
-  "description": "A simplified blog for developers and designer. This starter built with Gatsby and Netlify CMS",
-  "author": "W3Layouts Team <support@w3layouts.com>",
+  "name": "bodymeetingyoga",
+  "description": "A yoga blog built with Gatsby and Netlify CMS",
+  "author": "sabrinatolmer.xyz",
   "version": "0.1.0",
   "license": "MIT",
   "bugs": {
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "gatsby": "^2.19.7",
-    "gatsby-plugin-dark-mode": "^1.1.1",
+    "gatsby-plugin-dark-mode": "^1.1.2",
     "gatsby-plugin-google-analytics": "^2.1.36",
     "gatsby-plugin-netlify-cms": "^4.1.38",
     "gatsby-plugin-react-helmet": "^3.1.22",
@@ -18,7 +18,7 @@
     "gatsby-remark-prismjs": "^3.3.31",
     "gatsby-source-filesystem": "^2.1.48",
     "gatsby-transformer-remark": "^2.6.53",
-    "netlify-cms-app": "^2.11.13",
+    "netlify-cms-app": "^2.12.14",
     "node-sass": "^4.13.1",
     "prismjs": "^1.19.0",
     "react": "^16.12.0",
@@ -35,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabritol/minimalbodymeetingyoga"
+    "url": "https://github.com/sabritol/minimalbodymeetingyoga"
   },
   "scripts": {
     "build": "gatsby build",
